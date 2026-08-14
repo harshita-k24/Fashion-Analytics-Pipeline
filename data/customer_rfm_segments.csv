@@ -1,0 +1,6 @@
+Customer_Identifier,Recency_Days,Frequency_Orders,Monetary_Value,Discount_Sensitivity
+CUSTOMER_0001,14.0,8,890.50,0.12
+CUSTOMER_0002,120.0,2,145.00,0.68
+CUSTOMER_0003,22.0,5,510.20,0.25
+CUSTOMER_0004,45.0,3,310.00,0.42
+CUSTOMER_0005,5.0,12,1450.80,0.08
